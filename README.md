@@ -2,4 +2,4 @@
 <br>
 Author - Arindam ACharya
 <br>
-Full stack web deoloper
+Full stack web devoloper
